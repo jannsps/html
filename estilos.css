@@ -1,0 +1,17 @@
+p{
+	color: skyblue;
+}
+h1{
+	font-size: 40px;
+}
+#id1{
+	text-align: center;
+}
+p.clase1{
+	color: lightgreen;
+	text-align: right;
+	 background-image: linear-gradient(to bottom, #050737, #002b51, #004651, #135e45, #627141);
+}
+body{
+	  background-image: linear-gradient(to bottom, #120537, #2a1445, #422254, #593162, #714171);
+}
